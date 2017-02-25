@@ -1,0 +1,65 @@
+[
+			{
+				"id": 1,
+				"name": "Kodi 16.1 Build",
+				"description": "Full Kodi build",
+				"screenshot_url": "http://tvbox.help/updater/kodi.png",
+				"brand_url": "http://tvbox.help/updater/16backup.zip",
+				"version": 1,
+				"update_details": "This is Build Version 1 build for Kodi 16.1"
+			},
+			{
+				"id": 2,
+				"name": "Kodi 17.0 Build",
+				"description": "Full Kodi build",
+				"screenshot_url": "http://tvbox.help/updater/kodi.png",
+				"brand_url": "http://tvbox.help/updater/17backup.zip",
+				"version": 1,
+				"update_details": "This is Build Version 1 build for Kodi Version 17.0"
+			},
+			{
+				"id": 3,
+				"name": "Kodi 17.0 - Krypton",
+				"description": "Kodi Version 17.0 Krypton",
+				"screenshot_url": "http://tvbox.help/updater/krypton.png",
+				"brand_url": "http://tvbox.help/updater/kodi-17.0-Krypton-armeabi-v7a.apk",
+				"version": 1,
+				"update_details": "Krypton is the newest version of Kodi with an updated UI and many other under-the-hood changes."
+			},
+			{
+				"id": 4,
+				"name": "Popcorn Time CE",
+				"description": "Popcorn Time CE Version 0.2.9",
+				"screenshot_url": "http://tvbox.help/updater/netflix.png",
+				"brand_url": "http://tvbox.help/updater/PopcornTime_CE_0.2.9.apk",
+				"version": 1,
+				"update_details": "Watch movies and TV shows in HD quality w/subtitles quickly and easily!"
+			},
+				{
+				"id": 5,
+				"name": "Showbox",
+				"description": "Showbox Version 4.82",
+				"screenshot_url": "http://tvbox.help/updater/showbox.png",
+				"brand_url": "http://tvbox.help/updater/Show_Box_4.82.apk",
+				"version": 1,
+				"update_details": "Show Box is a free movies and TV shows streaming app for the Android."
+			},
+			{
+				"id": 6,
+ 				"name": "Mobdro",
+				"description": "Mobdro Version 2.0.30",
+				"screenshot_url": "http://tvbox.help/updater/mobdro.png",
+				"brand_url": "http://tvbox.help/updater/Mobdro_2.0.30_Freemium.apk",
+				"version": 1,
+ 				"update_details": "Newest Version"
+ 			},
+			{
+				"id": 7,
+				"name": "Netflix Android TV",
+				"description": "Netflix Android TV Version 3.3.2",
+				"screenshot_url": "http://tvbox.help/updater/netflix.png",
+				"brand_url": "http://tvbox.help/updater/Netflix_AndroidTV_3.3.2.apk",
+				"version": 1,
+				"update_details": "Special version of Netflix built for Android TV boxes. Must have Netflix subscription to use."
+			}
+]
