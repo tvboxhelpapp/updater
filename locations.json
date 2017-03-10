@@ -19,10 +19,10 @@
 			},
 			{
 				"id": 3,
-				"name": "Kodi 17.0 - Krypton",
-				"description": "Kodi Version 17.0 Krypton",
+				"name": "Kodi v17.1 RC1 - Krypton",
+				"description": "Kodi v17.1 RC1 - Krypton",
 				"screenshot_url": "http://tvbox.help/updater/krypton.png",
-				"brand_url": "http://tvbox.help/updater/kodi-17.0-Krypton-armeabi-v7a.apk",
+				"brand_url": "http://tvbox.help/updater/kodi-17.1-Krypton_rc1-armeabi-v7a.apk",
 				"version": 1,
 				"update_details": "Krypton is the newest version of Kodi with an updated UI and many other under-the-hood changes."
 			},
@@ -44,8 +44,17 @@
 				"version": 1,
 				"update_details": "Show Box is a free movies and TV shows streaming app for the Android."
 			},
-			{
+				{
 				"id": 6,
+				"name": "Showbox",
+				"description": "Terrarium TV Premium 1.4.9",
+				"screenshot_url": "http://tvbox.help/updater/terrarium.png",
+				"brand_url": "http://tvbox.help/updater/Terrarium_TV_Premium_1.4.9.apk",
+				"version": 1,
+				"update_details": "Watch All Free HD Movies and TV Shows on Your Android Devices!"
+			},
+			{
+				"id": 7,
  				"name": "Mobdro",
 				"description": "Mobdro Version 2.0.30",
 				"screenshot_url": "http://tvbox.help/updater/mobdro.png",
@@ -54,7 +63,7 @@
  				"update_details": "Newest Version"
  			},
 			{
-				"id": 7,
+				"id": 8,
 				"name": "Netflix Android TV",
 				"description": "Netflix Android TV Version 3.3.2",
 				"screenshot_url": "http://tvbox.help/updater/netflix.png",
